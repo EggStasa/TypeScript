@@ -1,2 +1,2 @@
 # TypeScript
-ashalay malay bamby bemny
+101001010100101011001010011
